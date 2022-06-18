@@ -1,0 +1,8 @@
+C:\Users\Ronald\Desktop\Login\wcfLoginService\loginServiceClient\bin\Debug\loginServiceClient.exe.config
+C:\Users\Ronald\Desktop\Login\wcfLoginService\loginServiceClient\bin\Debug\loginServiceClient.exe
+C:\Users\Ronald\Desktop\Login\wcfLoginService\loginServiceClient\bin\Debug\loginServiceClient.pdb
+C:\Users\Ronald\Desktop\Login\wcfLoginService\loginServiceClient\obj\Debug\loginServiceClient.csproj.AssemblyReference.cache
+C:\Users\Ronald\Desktop\Login\wcfLoginService\loginServiceClient\obj\Debug\loginServiceClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ronald\Desktop\Login\wcfLoginService\loginServiceClient\obj\Debug\loginServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\Ronald\Desktop\Login\wcfLoginService\loginServiceClient\obj\Debug\loginServiceClient.exe
+C:\Users\Ronald\Desktop\Login\wcfLoginService\loginServiceClient\obj\Debug\loginServiceClient.pdb
